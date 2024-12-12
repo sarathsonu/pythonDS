@@ -1,0 +1,6 @@
+Pillow
+scikit-learn
+pandas
+numpy
+matplotlib
+stremlit
